@@ -74,8 +74,8 @@ tomli
 tqdm
 traceback2
 typing_extensions
-tzdata
-tzloca
+# tzdata
+# tzloca
 urllib3
 uvicorn
 unittest2
