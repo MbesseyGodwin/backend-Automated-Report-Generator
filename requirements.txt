@@ -1,0 +1,11 @@
+# requirements.txt file
+
+fastapi==0.95.0
+uvicorn==0.21.1
+SQLAlchemy==1.4.46
+pydantic==1.10.7
+mysqlclient==2.1.1
+pandas==2.0.1
+fpdf==1.7.2
+alembic==1.10.4
+unittest2==1.1.0
